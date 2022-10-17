@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	chal ll;
+	char ll;
 
 	for (ll = 'z'; ll >= 'a'; ll--)
 		putchar(ll);
