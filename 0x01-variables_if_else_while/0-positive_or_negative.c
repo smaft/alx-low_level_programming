@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * main - printf nbr
+ * main - prints if  numbre is positive, negative,zero
  * Return : Always
  */
 int main(void)
@@ -19,7 +19,7 @@ int main(void)
 	}
 	else if (n == 0)
 	{
-		printf("%d is ziro\n", n);
+		printf("%d is zero\n", n);
 	}
 	else
 	{
